@@ -1,5 +1,3 @@
-// Caleb Yosef: yosef006
-// Adam Shabaneh: shaba070
 public class Queen {
     private int row;
     private int col;
