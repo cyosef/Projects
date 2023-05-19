@@ -1,5 +1,3 @@
-// Caleb Yosef: yosef006
-// Adam Shabaneh: shaba070
 import java.util.Scanner;
 public class Main{
     public static void main(String[] args) {
