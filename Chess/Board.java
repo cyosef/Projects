@@ -1,6 +1,3 @@
-// Caleb Yosef: yosef006
-// Adam Shabaneh: shaba070
-
 public class Board {
 
     // Instance variables
