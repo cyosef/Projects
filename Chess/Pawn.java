@@ -1,7 +1,4 @@
-// Caleb Yosef: yosef006
-// Adam Shabaneh: shaba070
 public class Pawn {
-
     /**
      * Constructor.
      * @param row   The current row of the pawn.
