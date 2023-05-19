@@ -1,6 +1,3 @@
-// Caleb Yosef: yosef006
-// Adam Shabaneh: shaba070
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
